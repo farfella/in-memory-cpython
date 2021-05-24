@@ -2,10 +2,12 @@
   Copyright (C) 2021 SCYTHE, Inc.
 
   Authors:
-    Originally written by Benjamin Dagana.
+    Originally written by Benjamin Dagana (forked from https://github.com/fancycode/MemoryModule).
     Updated by Ateeq Sharfuddin to support TLS.
     Updated by Jonathan Lim to support AMD64.
     Updated by Ateeq Sharfuddin to support in-memory Python embedding.
+
+    (NOTE: cba\cmoduleloader\python\cba_moduleloader.c is also licensed under Mozilla Public License 2.0)
 
   Based on John Levine's "Loaders and Linkers" (ISBN: 1558604960).
 
